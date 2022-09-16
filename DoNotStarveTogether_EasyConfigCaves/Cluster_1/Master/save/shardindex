@@ -15,6 +15,10 @@ KLEI     1 return {
     },
     ["workshop-1301033176"]={ ["enabled"]=true },
     ["workshop-1595631294"]={ ["enabled"]=true },
+    ["workshop-2119742489"]={
+      ["configuration_options"]={ ["Hunger_Cost"]=1, ["Ownership"]=false, ["Sanity_Cost"]=1 },
+      ["enabled"]=true 
+    },
     ["workshop-2753774601"]={
       ["configuration_options"]={ [""]=0, CD=0, ["Health_Penalty"]=0.15, ["Language"]=false, UI="right_above" },
       ["enabled"]=true 

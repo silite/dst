@@ -93,5 +93,9 @@ return {
       quick_pick_plant_normal_ground=true 
     },
     enabled=true 
+  },
+  ["workshop-2119742489"]={
+    configuration_options={ Hunger_Cost=1, Ownership=false, Sanity_Cost=1 },
+    enabled=true 
   } 
 }
